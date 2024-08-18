@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: sundar86gs/test1
+        image: sundar86gs/test2
         ports:
         - containerPort: 80
